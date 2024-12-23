@@ -42,7 +42,7 @@ margin: auto;
   .container {
     width: 1170px;
 }
-
+}
 .header .slider  {
 background-image: url('../1fd4398cb4eb02502234efa6667c28cf.jpg');
 background-size: cover;
@@ -176,6 +176,7 @@ gap: 10px;
 @media (min-width: 1200px) {
   .container-1 {
     width: 1170px;
+}
 }
 
 .container-1 img{
